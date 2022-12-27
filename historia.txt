@@ -1,3 +1,4 @@
+Bienvenidos a 2.0
 este es otro cambio!
 cambio la cabercera en GIT, por que puedo
 Esta es la modificación del master
@@ -23,3 +24,9 @@ este es otro parrafo para el segundo cambio
 cambie el hgistorial en git por que puedo
 Suscríbete y dale like
 ESTE ES EL VF
+
+
+Este cambio es para nosotros, paara ver como funciona el push
+
+
+ESTE ES UN CAMBIO CON SSJ

@@ -1,4 +1,5 @@
-esta es la historia de laurA
+Esta es la modificación del master
+El color es azul
 
 laura tiene 27 años
 
@@ -15,4 +16,6 @@ esta es otra modificación con la cabecera de colores
 
 este es otro parrafo para el segundo cambio
 
+
+Suscríbete y dale like
 ESTE ES EL VF
